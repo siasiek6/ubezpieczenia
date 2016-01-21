@@ -1,0 +1,207 @@
+
+
+
+.nav a {
+font-family: 'Signika', sans-serif;
+  color: #1f6684;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://preciseleads.com/news/wp-content/uploads/2015/09/Life-Insurance.png');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #1f6684;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+font-family: 'Signika', sans-serif;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotron a {
+  font-size: 20px;
+color: #274a6a;
+}
+
+
+.learnmore {
+
+}
+.learnmore h3 {
+font-size: 34px;
+font-family: 'Signika', sans-serif;
+}
+.learnmore {
+font-size:14px;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+
+
+.learn-more {
+  background-color: #f7f7f7;
+   position: fixed;
+    bottom: 0;
+	left:0;
+	right:0;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.learn-more h3 {
+color: #1f6684;
+    font-size: 40px;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides {
+    background-color:#efefef;
+    border-bottom: 1px solid #dbdbdb;
+font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.neighborhood-guides h1 {
+  color: #1f6684;
+    font-size: 40px;
+font-family: 'Signika', sans-serif;
+}
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+.naglowek {
+  color: #1f6684;
+  font-size: 40px;  
+font-family: 'Signika', sans-serif;
+  font-weight: bold;
+  margin:auto
+
+}
+.tlo {
+    background-color:#efefef;
+	  height: 900px;
+}
+
+.linia {
+	color:#0079cc;
+}
+.verticalLine {
+    border-left: thick solid #ff0000;
+}
+.learnmore {
+  background-color: #f7f7f7;
+}
+
+.tlso {
+    background-color:#efefef;
+	  margin-left:auto;
+	  margin-right:auto;
+	  width:80%;
+}
+aaaaa {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #00F;
+    margin: 1em 0;
+    padding: 0; 
+	width:60%
+}
+.myElement { 
+	background-size: cover;
+	width:100%;
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAADzElEQVQ4jSXMWW8UBQDA8fl
+
++xlfR6AOJgIbEmBiIRoIQpJRCj1haylHaUuh97H3Mdo/Z2ZnZube7253Zo7vQMtvalgKmGtGXvw/
+
++PsBPeJQxuBOXGEqUGEmXGYjluLm4RlS3kSsu1d4rkrV9BiI6w1mboZjMjVWRW5ECP62KXJ4L8/3MGiMbMaKyjDCd0xmI5bgTVxiM6wynSkwl0ojlMopjUe10KO0EzBd9Fs0WC3KVtbxGzq2xVW
+
++xqrpEFAPV1Ai6HsKEaHArLPFrUuVussxkUmaxUCBrSuiOyk53D8U/IGb2yO+8oeztUW+/Iugf4wenKK1DGt0+r4M
+
++b0/PEB6lVYYjOUaTEg/SJWYyJUKaRmHbwvYatPsnmO0D5J09nE6fXnDMydEH/n7/kd3gA1rnhNruMY29Y1rBXwgxs8Gm5hDSXcJmlYRdJ1epYTQ7GH6X6m4ft/OG7W5Ac/
+
++Iw6M/OD39h/fH/9IM/kRqvkNp/E62+grJe4sgeX1y9deIlRbxSoeI3SSkVMlYO4hlF73ext8/onn4jkZwSqd/RjP4SK13RqFzxnLthHAlIFTZZdN
+
++jZB2myT0GiHFYd2oErIbZF2PstdDa7+htneCH7zD7h0h+32K3iHZxjFx94DJUo+fkx5jBZ8Fp8OiuYswr3u80Bu8tDqMyzXuiToht022sc
+
++S5pFv9FH8A1JWm5jdJu52iVgd1o0u15NVzs2p/LBuMam2mFHbCBdeSJyfy/PlXI5PH0b5ZGyZqytFBqMaV55t8DzvEjfbrMs1omaLqNVi02iwYXUYSFU5v6RycVXhnuzxRG4jXJoX+eJphM
+
++mw3y9KHJxNsSPy0luh3Pc3sywoDhEjSohbZu41SJq+ERMj3Wzzf2ky3erChfXigxKPlP5NsJgSuJ6OMPNWI67YpGhRIbxdJbHeYWnRZ21skXcdImbVWKOT9jyiFo+zzWfa1GLb1bKXFqQ
+
++SVW4X5iG2EkrTCSUhlLqDxIaUxlNGbyBrOSwUvFJKLbiPY2accjbDdZ1mrMl+vcSJX5amGLc3Mi377Y4nqoxEBCRRhKlBhO/h+OJxSmRI0nOZ3pbJl11WHLqSNVm2S2uyxpHs
+
++kKqOiyeXFNJ8/C3NhLsLdsMSTrMbjgoYwlJAY2yoxkVUZTxd4KBaZziksyAYpq06p3kJv7ZOqdHmcdflNtBkWba6uZLiynGY0IbMs26yVbBZKDsJYUuVh1uBR3mBSLDKb01hRHDYUm4xTQ93xcXsBiUqLiYzB
+
+/ZTOvazNtc0so6LKvOKwoleYlR0mcg7/ATaJxSE2SI5NAAAAAElFTkSuQmCC");
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 6em;
+  line-height: 0.5em;
+  margin-right: 0.25em;
+  float:left;
+
+}
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 6em;
+  line-height: 0.5em;
+  margin-right: 0.25em;
+  float:right;
+  vertical-align: -0.4em;
+}
+  
+hr { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  width:60%;
+  margin-right:50%;
+}
+
+.omnietekst {
+width:300px;
+height:300px
+
+}
+
+.omnietekst p {
+font-size:18px;
+font-family: 'Open Sans Condensed', sans-serif;
+}
